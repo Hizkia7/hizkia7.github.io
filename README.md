@@ -36,9 +36,9 @@ My experience includes:
 Hizkia7.github.io/
 ├── index.html                  # Main portfolio site
 ├── README.md                   # Project description & metadata
-└── assets/                     # Static assets
-    ├── hizkia.jpg              # Your professional photo
-    └── Hizkia-Resume.pdf       # Downloadable resume
+└── assets/                     
+    ├── Hizkia-Resume.pdf       
+    └── hizkia.jpeg             
 ```
 
 ---
