@@ -1,6 +1,6 @@
 # Hizkia Gunawan – Machine Learning Engineer & Data Scientist
 
-Welcome to my personal portfolio website built with **Tailwind CSS** and hosted on **GitHub Pages**.
+Welcome to my personal portfolio website
 
 🔗 Live site: [https://hizkia7.github.io](https://hizkia7.github.io)
 
